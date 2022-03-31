@@ -1,0 +1,4 @@
+stepDefinitions\BookingStepdefenition.class
+MyRunner\TestRunner.class
+stepDefinitions\BaseTest.class
+stepDefinitions\TaggedHooksStepDefinition.class
