@@ -1,1 +1,1 @@
-# cucumberallure
+# cucumberallure -junit
